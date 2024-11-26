@@ -1,0 +1,13 @@
+date,category,product,units_sold,unit_price,revenue
+2023-01-01,Electronics,Smartphone,50,699,34950
+2023-01-01,Electronics,Laptop,20,999,19980
+2023-01-01,Furniture,Office Chair,35,150,5250
+2023-01-01,Furniture,Desk,15,300,4500
+2023-01-02,Electronics,Smartphone,60,699,41940
+2023-01-02,Electronics,Laptop,25,999,24975
+2023-01-02,Furniture,Office Chair,30,150,4500
+2023-01-02,Furniture,Desk,10,300,3000
+2023-01-03,Electronics,Smartphone,45,699,31455
+2023-01-03,Electronics,Laptop,30,999,29970
+2023-01-03,Furniture,Office Chair,40,150,6000
+2023-01-03,Furniture,Desk,20,300,6000

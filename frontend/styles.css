@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#upload-section, #editor-section, #results-section {
+    margin-bottom: 20px;
+}
+
+#run-button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#output {
+    background-color: #f4f4f4;
+    padding: 10px;
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.CodeMirror {
+    border: 1px solid #ccc;
+    height: 300px;
+}
